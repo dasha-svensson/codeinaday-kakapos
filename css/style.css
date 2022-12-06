@@ -1,3 +1,17 @@
-body {
-    background: #FFCC00;
+body{
+    background:white;
+    font-family:Apple Chancery;
+    text-align:center;
+}
+h1
+{
+    color:purple;
+    background: yellow;
+    text-align:center;
+        }
+important{
+    font-weight:900;
+    text-align:center;
+    text-decoration: underline;
+    color:green;
 }
